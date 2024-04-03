@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning .NET framework<br>🤝 I’m looking for help with <br>🌱 I’m currently worning on personal projects<br>💬 Lets talk about programing<br>⚡ Big passion for cybersecurity
+🔭 I’m currently learning .NET framework<br>🤝 I’m looking for opportunity to show my knowledge <br>🌱 I’m currently worning on personal projects<br>💬 Lets talk about programing<br>⚡ Big passion for cybersecurity
 
 
 ## 🌐 Socials:
